@@ -1,16 +1,18 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: 关于
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+### 关于我
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+一直以来被这三个问题困扰：
+我是谁，我来自哪去？我将去何方？
+也许在有生之年都无法获得答案，
+但吾将上下而求索，至死不渝。
 
-What else do you need?
+### 关于这个博客
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+记录那些转瞬即逝的念头！
+记录那些曾经走过的脚步！
+生活不止眼前的苟且，还要有诗和远方不是？！
