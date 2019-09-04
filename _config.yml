@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Ruan's Blog
+title: 横平竖直
 
 # Short description of your site
 description: 说讪捣事!
@@ -23,7 +23,7 @@ description: 说讪捣事!
 
 # List of links in the navigation bar
 navbar-links:
-  首页: "http://chinaruan.github.io"
+  首页: "http://hengpingshuzhi.com"
   标签: "tags"
   关于: "about"
   #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
