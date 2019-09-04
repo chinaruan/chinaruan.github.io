@@ -2,7 +2,7 @@
 layout: post
 title: 每一次跑步都是一场修炼
 subtitle: Each Running is self-discipline
-tags: [Running]
+tags: Running
 comments: true
 ---
 
