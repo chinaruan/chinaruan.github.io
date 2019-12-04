@@ -2,7 +2,7 @@
 layout: post
 title: 坚持运动，很难
 subtitle: It's so hard to exercise
-tags: [Runing]
+tags: [Running]
 comments: true
 
 ---
