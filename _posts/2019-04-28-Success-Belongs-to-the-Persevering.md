@@ -2,7 +2,7 @@
 layout: post
 title: 坚持就是一种快乐
 subtitle: Success Belongs to the Persevering
-tags: [running]
+tags: [Running]
 comments: true
 ---
 
